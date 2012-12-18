@@ -1,0 +1,13 @@
+syntax:regexp
+
+# editor temporary files
+^.*~$
+
+# ide specific files
+^\.idea\.*$
+^[^/]*\.iml$
+
+# build files
+^target/.*$
+
+
