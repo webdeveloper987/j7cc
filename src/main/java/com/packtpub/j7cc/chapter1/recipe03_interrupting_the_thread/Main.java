@@ -1,4 +1,6 @@
-package com.packtpub.j7cc.chapter1.recipe3_interrupting_the_thread;
+package com.packtpub.j7cc.chapter1.recipe03_interrupting_the_thread;
+
+import com.packtpub.j7cc.chapter1.recipe03_interrupting_the_thread.PrimeGenerator;
 
 public class Main {
     private static final long SLEEP_TIMEOUT = 5000;
