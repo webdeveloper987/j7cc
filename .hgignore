@@ -10,4 +10,6 @@ syntax:regexp
 # build files
 ^target/.*$
 
+# explicitly ignored project files, for example logs
+^data/log.txt$
 
