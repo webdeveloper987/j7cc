@@ -1,4 +1,4 @@
-package com.packtpub.j7cc.chapter1.recipe5_sleeping_and_resuming_a_thread;
+package com.packtpub.j7cc.chapter1.recipe05_sleeping_and_resuming_a_thread;
 
 import java.util.concurrent.TimeUnit;
 

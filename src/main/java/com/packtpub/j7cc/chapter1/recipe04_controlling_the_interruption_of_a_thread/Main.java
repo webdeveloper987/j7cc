@@ -1,4 +1,4 @@
-package com.packtpub.j7cc.chapter1.recipe4_controlling_the_interruption_of_a_thread;
+package com.packtpub.j7cc.chapter1.recipe04_controlling_the_interruption_of_a_thread;
 
 import java.util.concurrent.TimeUnit;
 

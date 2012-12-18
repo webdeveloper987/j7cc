@@ -1,4 +1,4 @@
-package com.packtpub.j7cc.chapter1.recipe3_interrupting_the_thread;
+package com.packtpub.j7cc.chapter1.recipe03_interrupting_the_thread;
 
 public class PrimeGenerator extends Thread {
     @Override
