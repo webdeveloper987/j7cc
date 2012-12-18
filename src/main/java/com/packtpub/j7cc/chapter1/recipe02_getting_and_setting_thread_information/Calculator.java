@@ -1,4 +1,4 @@
-package com.packtpub.j7cc.chapter1.recipe2_getting_and_setting_thread_information;
+package com.packtpub.j7cc.chapter1.recipe02_getting_and_setting_thread_information;
 
 
 public class Calculator implements Runnable {
