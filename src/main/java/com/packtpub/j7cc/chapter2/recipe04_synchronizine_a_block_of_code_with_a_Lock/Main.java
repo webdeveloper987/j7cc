@@ -1,4 +1,4 @@
-package com.packtpub.j7cc.chapter2.recipe04_synchronizina_a_block_of_code_with_a_Lock;
+package com.packtpub.j7cc.chapter2.recipe04_synchronizine_a_block_of_code_with_a_Lock;
 
 
 public class Main {
