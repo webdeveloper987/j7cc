@@ -13,3 +13,6 @@ syntax:regexp
 # explicitly ignored project files, for example logs
 ^data/log.txt$
 
+# mercurial orig files
+^.*\.orig$
+
