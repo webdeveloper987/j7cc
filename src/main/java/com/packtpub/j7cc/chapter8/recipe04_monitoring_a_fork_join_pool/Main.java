@@ -1,4 +1,4 @@
-package com.packtpub.j7cc.chapter8.recipe09_monitoring_a_fork_join_pool;
+package com.packtpub.j7cc.chapter8.recipe04_monitoring_a_fork_join_pool;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.TimeUnit;
