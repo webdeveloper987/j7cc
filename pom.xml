@@ -18,8 +18,14 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.8.2</version>
-            <scope>test</scope>
+            <version>4.10</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.googlecode.multithreadedtc</groupId>
+            <artifactId>multithreadedtc</artifactId>
+            <version>1.01</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 
