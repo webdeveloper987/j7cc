@@ -16,3 +16,5 @@ syntax:regexp
 # mercurial orig files
 ^.*\.orig$
 
+# log files
+^[^/]*\.log$
