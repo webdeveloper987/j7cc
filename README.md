@@ -1,2 +1,4 @@
-Examples from Java 7 concurrency cookbook (packtpub.com)
-Book page at publisher site : http://www.packtpub.com/java-7-concurrency-cookbook/book
+Examples from Java 7 concurrency cookbook.
+
+[Book page](http://www.packtpub.com/java-7-concurrency-cookbook/book) at [publisher](http://www.packtpub.com) site.
+
