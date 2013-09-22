@@ -1,0 +1,18 @@
+# editor temporary files
+*~
+
+# ide specific files
+/.idea/
+*.iml
+
+# build files
+/target/
+
+# explicitly ignored project files, for example logs
+/data/log.txt
+
+# mercurial orig files
+*.orig
+
+# log files
+*.log
